@@ -1,2 +1,4 @@
 ou are downloading the latest (2.31.1) 64-bit version of Git for Windows. This is the most 
 recent maintained build. It was released 2 months ago, on 2021-03-27.
+
+hoy dia estamos 03/06/2021 vamos a ver como actualizamos en el local.
