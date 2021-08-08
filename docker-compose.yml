@@ -1,0 +1,7 @@
+version: '3'
+services:
+    jenkins:
+     images: jenkins/jenkins
+     ports:
+      - 8000:8000
+      - 50000:50000
